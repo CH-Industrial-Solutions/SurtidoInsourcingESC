@@ -1,0 +1,13 @@
+QORVEX Surtido - Licencia de uso
+Versión 1.6.0 · © 2026 Ing. Carlos Alberto Hernández Hernández. Todos los derechos reservados.
+
+Software propietario. Este código fuente se entrega solo para el titular de los derechos
+o para quien él autorice por escrito. No se concede permiso para copiar, modificar,
+distribuir, sublicenciar ni usar el software o su código fuente fuera de dicha autorización.
+
+Componentes de terceros
+- qrcode-generator 1.4.4 (lib/package/qrcode.js), Copyright (c) 2009 Kazuhiko Arase,
+  licencia MIT: http://www.opensource.org/licenses/mit-license.php
+  El aviso de copyright y de licencia se conserva en el archivo.
+
+Aviso legal completo: consultar la pantalla "Aviso legal y condiciones de uso" de la aplicación.
